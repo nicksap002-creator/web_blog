@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa09a82-d3f6-44a6-b64c-0b70bda38a05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HzjQRwKpCrD6bmzKAnoPpjyXXk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\admin" />
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html" />
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\admin\users" />
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\admin\topics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\assets\admin_css\main_style" />
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\assets\images\img_for_style\style_header" />
+      <recent name="C:\OpenServer\domains\fitlent_web_blog\public_html\assets\images\img_for_style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa09a82-d3f6-44a6-b64c-0b70bda38a05" name="Default Changelist" comment="" />
+      <created>1669294789725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669294789725</updated>
+      <workItem from="1669294790998" duration="7072000" />
+      <workItem from="1669375163436" duration="5736000" />
+      <workItem from="1669456319104" duration="4692000" />
+      <workItem from="1669538661125" duration="8902000" />
+      <workItem from="1669620943764" duration="1068000" />
+      <workItem from="1669650450686" duration="3817000" />
+      <workItem from="1669911899819" duration="208000" />
+      <workItem from="1670068055433" duration="10318000" />
+      <workItem from="1670238542647" duration="4643000" />
+      <workItem from="1670260678090" duration="3743000" />
+      <workItem from="1670337594725" duration="45000" />
+      <workItem from="1670350154500" duration="1808000" />
+      <workItem from="1670421309727" duration="210000" />
+      <workItem from="1670421524448" duration="7290000" />
+      <workItem from="1670507037300" duration="11672000" />
+      <workItem from="1670578620483" duration="20957000" />
+      <workItem from="1670668621377" duration="11049000" />
+      <workItem from="1670751316594" duration="14526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
